@@ -1,0 +1,7 @@
+{
+  "name": "Tri-Phase Electrical Limited",
+  "description": "Professional 24/7 Auckland electrician website for Tri-Phase Electrical Limited covering residential, commercial, and industrial electrical services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
